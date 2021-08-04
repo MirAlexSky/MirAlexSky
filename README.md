@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alexandr Sinyagin
 - 👀 I’m interested in creating things via web
 - 🌱 I’m currently learning Laravel & Vue
-- 📫 miralexsky@gmail.com or t.me/alexsinus or vk.com/1mirsky1
+- 📫 miralexsky@gmail.com or t.me/alexsinus or vk.com/sinus_alex
